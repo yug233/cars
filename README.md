@@ -13,3 +13,9 @@
 
 <img src="venue(1).png" width="300" height="200" /> <img src="kona.png" width="300" height="200" /> <img src="tuscon.png" width="300" height="150" /> <img src="santa fe.png" width="400" height="200" /> <img src="palisade.png" width="330" height="200" />
 
+<h3>Electfied</h3>
+<h6>These cars will help contribute a cleaner tomorrow</h6>
+
+
+
+<img src="INSTER.jpg" width="400" height="200" /> 
