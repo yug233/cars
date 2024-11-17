@@ -18,4 +18,4 @@
 
 
 
-<img src="INSTER.jpg" width="400" height="200" /> <img src="i30 sedan.jpg" width="300" height="200"/>
+<img src="INSTER.jpg" width="400" height="200" /> <img src="i30 sedan.jpg" width="400" height="200"/>
