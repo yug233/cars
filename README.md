@@ -19,4 +19,5 @@
 
 
 <img src="INSTER.jpg" width="400" height="200" /> <img src="i30 sedan.jpg" width="350" height="200"/> <img src="kona.jpg" width="300" height="200" /><img src="konah.jpg" width="300" height="210" /> <img src="santa fe.png" width="400" height="200" /> 
-<img src="5.jpg" width="350" height="200" />  <img src="ioniq n line.jpg" width="350" height="200" /> <img src="6.jpg" width="400" height="200" /> 
+<img src="5.jpg" width="350" height="200" />  <img align="right" width="350" height="200" src="ioniq n line.jpg"> 
+<img src="6.jpg" width="350" height="150" />  <img align="right" width="350" height="200" src="nexo.jpg">
