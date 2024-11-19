@@ -49,3 +49,22 @@
 
 
 <img src="sonantoa.jpg" width="400" height="200" />
+
+<h3>People Movers and Commercial</h3>
+<h6>Whether the 8 seater Hyundai Staria to ferry the kids around or you want Staria Load for cargo, these vans will be a superb hit</h6>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="staria.jpg" width="600" height="200" />
