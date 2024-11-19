@@ -20,4 +20,17 @@
 
 <img src="INSTER.jpg" width="400" height="200" /> <img src="i30 sedan.jpg" width="350" height="200"/> <img src="kona.jpg" width="300" height="200" /><img src="konah.jpg" width="300" height="210" /> <img src="santa fe.png" width="400" height="200" /> 
 <img src="5.jpg" width="350" height="200" />  <img align="right" width="350" height="200" src="ioniq n line.jpg"> 
-<img src="6.jpg" width="350" height="150" />  <img align="right" width="400" height="200" src="nexo.jpg">
+<img src="6.jpg" width="350" height="150" />  <img width="400" height="200" src="nexo.jpg">
+
+
+
+
+
+
+
+<h3>Small Cars</h3>
+<h6 align="left"> Cars for Urban Explorers, every small car available are for fun and zippy for those short drives.
+<img src="n line.png" width="1400" height="200" />
+
+<h3>Performance </h3>
+<h6>High performance sports cars kown for it's speedy pleasure.</h6>
