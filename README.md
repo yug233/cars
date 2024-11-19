@@ -68,3 +68,46 @@
 
 
 <img src="staria.jpg" width="600" height="200" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h6 align="center">To find out the price and deals of this cars, click to the left to find that out.
+https://www.hyundai.com/au/en/cars
+
+
