@@ -40,7 +40,7 @@
 
 
 
-<img src="i20 n.jpg" width="350" height="175" /> <img  width="300" height="200" src="i30 n.jpg" /> <img src="ioniq n.jpg" width="300" height="150" /> <img src="i30s n.jpg" width="400" height="200" />
+<img src="i20 n.jpg" width="300" height="175" /> <img  width="300" height="200" src="i30 n.jpg" /> <img src="ioniq n.jpg" width="300" height="150" /> <img src="i30s n.jpg" width="400" height="200" />
 
 <h3>Mid-Sized </h3>
 <h6>Whether living in the country or city, Hyundai Mid-Sized car will always be the perfect fit for you.</h6>
